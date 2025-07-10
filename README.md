@@ -4,7 +4,7 @@ Untuk menginstal dependensi dan menjalankan proyek secara lokal, ikuti langkah-l
 
 1. Clone repositori:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/MRRX1905/solaris-time.git
    ```
 
 2. Masuk ke direktori proyek:
@@ -24,7 +24,7 @@ Untuk menginstal dependensi dan menjalankan proyek secara lokal, ikuti langkah-l
 
 ## Screenshot
 
-(path/to/your/image.png)
+(public/ss.png)
 
 ## Expanding the ESLint configuration
 
