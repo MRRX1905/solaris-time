@@ -1,11 +1,30 @@
-# React + Vite
+## Instalasi
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Untuk menginstal dependensi dan menjalankan proyek secara lokal, ikuti langkah-langkah berikut:
 
-Currently, two official plugins are available:
+1. Clone repositori:
+   ```bash
+   git clone <repository-url>
+   ```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2. Masuk ke direktori proyek:
+   ```bash
+   cd solaris-time
+   ```
+
+3. Instal dependensi:
+   ```bash
+   npm install
+   ```
+
+4. Jalankan server pengembangan:
+   ```bash
+   npm run dev
+   ```
+
+## Screenshot
+
+(path/to/your/image.png)
 
 ## Expanding the ESLint configuration
 
