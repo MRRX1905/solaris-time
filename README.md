@@ -24,7 +24,7 @@ Untuk menginstal dependensi dan menjalankan proyek secara lokal, ikuti langkah-l
 
 ## Screenshot
 
-(public/ss.png)
+![Screenshot](public/ss.png)
 
 ## Expanding the ESLint configuration
 
